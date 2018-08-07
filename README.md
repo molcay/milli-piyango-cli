@@ -15,3 +15,7 @@ You can retrieve information about 5 different game (listed below) results from 
   mp result <game> <date>
   mp piyango <date> <ticketNo>
 ```
+
+### Dependencies:
+* [docopt](https://github.com/docopt/docopt)
+* [MilliPiyango](https://github.com/molcay/milli-piyango/)
